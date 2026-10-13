@@ -1,0 +1,4 @@
+type,prompt,opt_a,opt_b,opt_c,opt_d,correct
+MCQ,MCQ,A,B,C,D,A
+MCQ,What Colour is the sky ?,Blue,Green,Red,Yellow,A
+TF,Shri Narendra Modi is the Prime Minister of India,,,,,True
